@@ -347,15 +347,6 @@ is modified or damaged.
 
 ---
 
-## 👤 Author
-
-**Mazen Ashraf**
-Cybersecurity Intern — Network Walks
-
-LinkedIn: [your-linkedin-url]
-GitHub: [your-github-username]
-
----
 
 ## 📌 Project Information
 
@@ -363,4 +354,3 @@ GitHub: [your-github-username]
 **Modules:** W2-PM1 (Footprinting) + W2-PM5 (Zenmap Scanning) ·
 **Deliverable:** W2-PM-FINAL Penetration Testing Report
 
-© 2026 Mazen Ashraf. All rights reserved.
